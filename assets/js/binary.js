@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.12.57/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.2","target":"arcade","targetVersion":"1.12.57","repo":"g0ld-e/assesment"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.12.57/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.3","target":"arcade","targetVersion":"1.12.57","repo":"g0ld-e/assesment"}
 // total=2058099 new=9.31% cached=85.84% other=4.84%
 (function (ectx) {
 'use strict';
@@ -580,7 +580,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P57649(s) {
+function _main___P57726(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -1184,13 +1184,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P57649.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
-_main___P57649.continuations = [  ]
+_main___P57726.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
+_main___P57726.continuations = [  ]
 
-function _main___P57649_mk(s) {
+function _main___P57726_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P57649, depth: s.depth + 1,
+        parent: s, fn: _main___P57726, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -67941,5 +67941,5 @@ const animation_Path__C29541_VT = mkVTable({
 
 const breakpoints = setupDebugger(1, ["transparency16___30653","tile14___30663","tile10___30662","tile1___30652","tile3___30655","tile4___30659","tile5___30654","tile6___30656","tile7___30658","tile8___30660","tile9___30661","tile11___30664","tile13___30666","tile15___30667","tile18___30670","tile19___30671","tile2___30657","tile12___30665","tile16___30668","tile17___30669","child___57002","menuButton___57005","cursor___57008","shopButton___57011","playerSpeedShop___57014","BackButton___57017","gamelvl___57028","mySprite___57061","kid___57067","IncreasingValue___57085","Points___57088","PPC___57092","IncreasingPointCost___57099","MenuCursor___57143","BackButton___57137","PlayerSpeedShopSprite___57135","WIP_more_children___57133","menuStart___57139","MenuShop___57141"])
 
-return _main___P57649
+return _main___P57726
 })
