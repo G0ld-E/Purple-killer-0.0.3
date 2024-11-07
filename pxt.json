@@ -1,5 +1,6 @@
 {
     "name": "Purple killer",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "device": "*",
