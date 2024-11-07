@@ -154,14 +154,14 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"k$n*|60cxc114c@.#q*W"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="I-XM5In0/QY9=Sx5-xDQ"><field name="MEMBER">playerSpeedShop</field></shadow></value></block></value><next><block type="variables_set" id=".2FV1@ZQ)S%Q`ypBGqH|"><field name="VAR" id="]8R4kz=l9PGVyi[?,nQr">WIP more children</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="RohP.MVvP6}R;@Q|qY`K"><value name="img"><shadow type="screen_image_picker" id="G$zdrLgMEfcw_U3fv7lf"><field name="img">img`
-5 5 5 5 5 5 5 5 5 5 5 5 5 5 . . 
-5 . . . . . . . d d d . . 5 . . 
-5 . . . . . . . d d d . . 5 . . 
-5 . . . . . . . 9 9 9 . . 5 . . 
-5 . . . 7 . . . 9 9 9 . . 5 . . 
-5 . . 7 7 7 . . 9 9 9 . . 5 . . 
-5 . . . 7 . . . d . d . . 5 . . 
-5 . . . . . . . d . d . . 5 . . 
+f 5 5 5 5 5 f 5 f 5 f f f 5 . . 
+f . . . . . f . f d f f f 5 . . 
+f . . . . . f . f d f f f 5 . . 
+f . . f . . f . f 9 f . . 5 . . 
+5 f . f . f . . f 9 f . . 5 . . 
+5 f f f f f . . f 9 f . . 5 . . 
+5 f f . f f . . f . f . . 5 . . 
+5 f f . f f . . f . f . . 5 . . 
 5 5 5 5 5 5 5 5 5 5 5 5 5 5 . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
