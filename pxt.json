@@ -1,6 +1,5 @@
 {
-    "name": "Assesment",
-    "version": "0.0.1",
+    "name": "Purple killer",
     "description": "",
     "dependencies": {
         "device": "*",

@@ -263,6 +263,7 @@ function shop () {
         . . . . . . . . . . . . f . . . 
         `, SpriteKind.cursor)
     PlayerSpeedShopSprite.setPosition(18, 87)
+    WIP_more_children.setPosition(50, 87)
     BackButton.setPosition(4, 7)
     controller.moveSprite(MenuCursor)
 }
@@ -271,6 +272,7 @@ function gamecontrol () {
         sprites.destroy(MenuCursor)
         sprites.destroy(BackButton)
         sprites.destroy(PlayerSpeedShopSprite)
+        sprites.destroy(WIP_more_children)
         sprites.destroy(kid)
         scene.setBackgroundImage(img`
             aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
