@@ -1,24 +1,4 @@
- 
-
-
-> Open this page at [https://g0ld-e.github.io/assesment/](https://g0ld-e.github.io/assesment/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/g0ld-e/assesment** and import
-
-## Edit this project ![Build status badge](https://github.com/g0ld-e/assesment/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/g0ld-e/assesment** and click import
+Republishing is **NOT** permited 
 
 ## Blocks preview
 
@@ -27,7 +7,3 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/g0ld-e/assesment/raw/master/.github/makecode/blocks.png)
 
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
