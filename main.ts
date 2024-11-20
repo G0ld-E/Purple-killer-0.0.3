@@ -15,22 +15,22 @@ sprites.onOverlap(SpriteKind.cursor, SpriteKind.menuButton, function (sprite, ot
 function random_spawnage () {
     sprites.destroy(kid)
     kid = sprites.create(img`
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . e e e . . . . . . . 
-        . . . . . . e d f . . . . . . . 
-        . . . . . . d d d . . . . . . . 
-        . . . . . . . d . . . . . . . . 
-        . . . . . d 9 9 9 . . . . . . . 
-        . . . . . d 9 9 9 d . . . . . . 
-        . . . . . d 9 9 9 d . . . . . . 
-        . . . . . d 9 9 9 d . . . . . . 
-        . . . . . . 9 9 9 . . . . . . . 
-        . . . . . . d . d . . . . . . . 
-        . . . . . . d . d . . . . . . . 
-        . . . . . . d d d d . . . . . . 
-        . . . . . . . . . . . . . . . . 
+        . . . . e e e e e e e . . . . . 
+        . . . . e f f d f f e . . . . . 
+        . . . . e f f d f f e . . . . . 
+        . . . . e 6 6 d 6 6 e . . . . . 
+        . . . . . d 6 d 6 d . . . . . . 
+        . . . . . d 6 d d d . . . . . . 
+        . . . d d 8 8 8 8 8 d d . . . . 
+        . . . d d 9 9 9 9 9 d d . . . . 
+        . . . d d 8 8 8 8 8 d d . . . . 
+        . . . d d 9 9 9 9 9 d d . . . . 
+        . . . d d 8 8 8 8 8 d d . . . . 
+        . . . d d 9 9 9 9 9 d d . . . . 
+        . . . d d 8 8 8 8 8 d d . . . . 
+        . . . . . d d . d d . . . . . . 
+        . . . . . d d . d d . . . . . . 
+        . . . . . d d . d d . . . . . . 
         `, SpriteKind.Food)
     tiles.placeOnRandomTile(kid, assets.tile`myTile8`)
 }
